@@ -26,4 +26,4 @@ func solution(_ s:String) -> String {
 //print(solution("pe4ople   unFollowed me"))
 
 // split, allsatisfy, Array()변환 을 하면 각 원소가 Character로 변하게 된다
-// 한 원소가 한문자가 아니라 여러문자여도 캐릭터일까? SubString
+// 한 원소가 한문자가 아니라 여러문자? SubString
