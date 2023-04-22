@@ -27,7 +27,6 @@
 		B8767B5329F2F92200435953 /* codility_cyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codility_cyclicRotation.swift; sourceTree = "<group>"; };
 		B8767B5729F3024300435953 /* programmers_최솟값만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "programmers_최솟값만들기.swift"; sourceTree = "<group>"; };
 		B8767B5929F3FBB500435953 /* programmers_올바른괄호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "programmers_올바른괄호.swift"; sourceTree = "<group>"; };
-		B8C3785829F4403600BE623C /* programmers_이진 변환 반복하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "programmers_이진 변환 반복하기.swift"; sourceTree = "<group>"; };
 		B8C3785A29F455F500BE623C /* array2_dashPhoneNumbser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = array2_dashPhoneNumbser.swift; sourceTree = "<group>"; };
 		B8C3785C29F46A1F00BE623C /* array3_contactMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = array3_contactMatch.swift; sourceTree = "<group>"; };
 		B8CC648629E5A0C0005FFFEE /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,7 +60,6 @@
 		B8C3785129F436CB00BE623C /* 4.23 */ = {
 			isa = PBXGroup;
 			children = (
-				B8C3785829F4403600BE623C /* programmers_이진 변환 반복하기.swift */,
 				B8C3785A29F455F500BE623C /* array2_dashPhoneNumbser.swift */,
 				B8C3785C29F46A1F00BE623C /* array3_contactMatch.swift */,
 			);
