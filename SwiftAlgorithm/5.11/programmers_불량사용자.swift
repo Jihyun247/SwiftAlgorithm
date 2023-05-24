@@ -13,7 +13,7 @@ func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
 
     for (idx, b) in banned_id.enumerated() {
         for u in user_id {
-
+            
             if u.count == b.count {
                 let ba = Array(b)
                 let ua = Array(u)
