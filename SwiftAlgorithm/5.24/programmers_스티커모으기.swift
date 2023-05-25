@@ -5,6 +5,8 @@
 //  Created by 김지현 on 2023/05/24.
 //
 
+// DP
+
 import Foundation
 
 func solution(_ sticker:[Int]) -> Int{
