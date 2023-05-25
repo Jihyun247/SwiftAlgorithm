@@ -14,10 +14,10 @@ var operators = readLine()!.split(separator: " ").map { Int(String($0))! }
 var maxVal = Int.min
 var minVal = Int.max
 
-calculate(array.first!, 1)
-
-print(maxVal)
-print(minVal)
+//calculate(array.first!, 1)
+//
+//print(maxVal)
+//print(minVal)
 
 func calculate(_ value: Int, _ index: Int) {
     if index == n {
